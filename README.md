@@ -1,5 +1,4 @@
-# Juniper-vLabs-Lab-1
-Introduction into Juniper vLabs
+# Juniper-vLabs-Lab-1 (Introduction into Juniper vLabs)
 
 - How do I gain access?
 - Basics of vLabs
