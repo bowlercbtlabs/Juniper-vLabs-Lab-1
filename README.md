@@ -1,6 +1,7 @@
 # Juniper-vLabs-Lab-1 (Introduction into Juniper vLabs)
 
 - How do I gain access?
+    * https://jlabs.juniper.net/vlabs/
 - Basics of vLabs
 - How to launch a lab
 - How to access a network device
